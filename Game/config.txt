@@ -1,0 +1,11 @@
+/                                                        /
+/ Template                                /
+/ Build Date: Oct  3 2021 - 12:56:37			 /
+/ Game Developed by Gamepopper. As well as this config.  /
+/                                                        /
+/ Make sure you have a ' = ' between property and value. /
+/                                                        /
+
+Audio_MusicVolume = 100
+Audio_SoundVolume = 100
+Visual_Fullscreen = false

@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\..\Libs\Vigilante-Game-Framework\VFrame\VCandle.cpp" />
+    <ClCompile Include="Config.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\depend\gamepad.c" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DBatchModelGroup.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DCamera.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DLightShader.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DModel.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DObject.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DObjModel.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DScene.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DShader.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VAnimation.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VAsync.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VBackdrop.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VBase.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VCamera.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VCollision.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VContent.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VEmitter.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VFiniteStateMachine.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGame.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGlobal.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGroup.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VInputHandler.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VInterpolate.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VMusic.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VObject.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VParticle.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPath.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsGroup.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsJoints.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsObject.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPostEffect.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRandom.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRenderGroup.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRenderLayer.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VShape.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VSoundManager.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VSprite.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VState.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VText.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTextPath.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTiledSprite.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTilemap.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTimer.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTrailArea.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTypedText.cpp" />
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\XInputDevice.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="PauseScreen.cpp" />
+    <ClCompile Include="PlayState.cpp" />
+    <ClCompile Include="TitleState.cpp" />
+    <ClCompile Include="WavePostEffect.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Libs\Vigilante-Game-Framework\VFrame\VCandle.h" />
+    <ClInclude Include="Config.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DBatchModelGroup.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DCamera.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DLight.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DLightShader.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DModel.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DObject.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DObjModel.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DScene.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DShader.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VAnimation.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VAnimationManager.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VAsync.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VBackdrop.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VBase.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VCamera.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VCollision.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VColour.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VContent.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VEmitter.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VFiniteStateMachine.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGame.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGlobal.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGroup.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VInputHandler.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VInterpolate.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VMusic.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VObject.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VParticle.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPath.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsGroup.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsJoints.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsObject.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPostEffect.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRandom.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRange.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRenderGroup.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRenderLayer.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VShape.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VSoundManager.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VSprite.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VState.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VText.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTextPath.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTile.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTiledSprite.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTilemap.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTimer.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTrailArea.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTypedText.h" />
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\XInputDevice.h" />
+    <ClInclude Include="Menu.h" />
+    <ClInclude Include="PauseScreen.h" />
+    <ClInclude Include="PlayState.h" />
+    <ClInclude Include="TitleState.h" />
+    <ClInclude Include="WavePostEffect.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{4E9AE9B7-0431-431F-AE5E-E6F15CC09C4B}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>VFrame-Project</RootNamespace>
+    <ProjectName>Game</ProjectName>
+    <WindowsTargetPlatformVersion>10.0.17763.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+    <IntDir>$(SolutionDir)$(Configuration)\$(Configuration)\</IntDir>
+    <TargetName>$(SolutionName)</TargetName>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+    <IntDir>$(SolutionDir)$(Configuration)\$(Configuration)\</IntDir>
+    <TargetName>$(SolutionName)</TargetName>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <PreprocessorDefinitions>SFML_STATIC;GLEW_STATIC;VFRAME_NO_3D;VFRAME_NO_CANDLE;USE_GAMEPAD_API;WIN32;_DEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\Development\Libs\SFML\include;D:\Development\Libs\Vigilante-Game-Framework;D:\Development\Libs\Chipmunk-7.0.2\include;D:\Development\Libs\glew-2.0.0\include;D:\Development\Libs\Candle\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreadedDebug</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>D:\Development\Libs\SFML\lib\Debug;D:\Development\Libs\SFML\extlibs\libs-msvc-universal\x86;D:\Development\Libs\glew-2.0.0\lib\Win32;D:\Development\Libs\Chipmunk-7.0.2\msvc\vc14\chipmunk\Win32;D:\Development\Libs\Candle\lib\Debug;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>glew32s.lib;candle-s.lib;sfml-main-d.lib;sfml-window-s-d.lib;sfml-system-s-d.lib;sfml-graphics-s-d.lib;sfml-audio-s-d.lib;opengl32.lib;freetype.lib;winmm.lib;gdi32.lib;openal32.lib;flac.lib;vorbisenc.lib;vorbisfile.lib;vorbis.lib;ogg.lib;Debug/chipmunk.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <PrecompiledHeader>
+      </PrecompiledHeader>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <PreprocessorDefinitions>SFML_STATIC;GLEW_STATIC;VFRAME_NO_3D;VFRAME_NO_CANDLE;USE_GAMEPAD_API;WIN32;NDEBUG;_WINDOWS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <AdditionalIncludeDirectories>D:\Development\Libs\SFML\include;D:\Development\Libs\Vigilante-Game-Framework;D:\Development\Libs\Chipmunk-7.0.2\include;D:\Development\Libs\glew-2.0.0\include;D:\Development\Libs\Candle\include;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <RuntimeLibrary>MultiThreaded</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Windows</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <AdditionalLibraryDirectories>D:\Development\Libs\SFML\lib\Release;D:\Development\Libs\SFML\extlibs\libs-msvc-universal\x86;D:\Development\Libs\glew-2.0.0\lib\Win32;D:\Development\Libs\Chipmunk-7.0.2\msvc\vc14\chipmunk\Win32;D:\Development\Libs\Candle\lib\Release;%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+      <AdditionalDependencies>glew32s.lib;candle-s.lib;sfml-main.lib;sfml-window-s.lib;sfml-system-s.lib;sfml-graphics-s.lib;sfml-audio-s.lib;opengl32.lib;freetype.lib;winmm.lib;gdi32.lib;openal32.lib;flac.lib;vorbisenc.lib;vorbisfile.lib;vorbis.lib;ogg.lib;Release/chipmunk.lib;%(AdditionalDependencies)</AdditionalDependencies>
+      <OutputFile>$(OutDir)$(TargetName)$(TargetExt)</OutputFile>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

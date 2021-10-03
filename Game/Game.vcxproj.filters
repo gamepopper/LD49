@@ -1,0 +1,351 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="PlayState.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DBatchModelGroup.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DCamera.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DLightShader.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DModel.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DObject.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DObjModel.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DScene.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DShader.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VAnimation.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VAsync.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VBackdrop.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VBase.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VCamera.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VCollision.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VContent.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VEmitter.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VFiniteStateMachine.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGame.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGlobal.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGroup.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VInputHandler.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VInterpolate.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VMusic.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VObject.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VParticle.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPath.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsGroup.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsJoints.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsObject.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPostEffect.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRandom.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRenderGroup.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRenderLayer.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VShape.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VSoundManager.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VSprite.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VState.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VText.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTextPath.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTiledSprite.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTilemap.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTimer.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTrailArea.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTypedText.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\XInputDevice.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\depend\gamepad.c">
+      <Filter>Source\VFrame\depend</Filter>
+    </ClCompile>
+    <ClCompile Include="TitleState.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseScreen.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="Config.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Libs\Vigilante-Game-Framework\VFrame\VCandle.cpp">
+      <Filter>Source\VFrame</Filter>
+    </ClCompile>
+    <ClCompile Include="WavePostEffect.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="PlayState.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DBatchModelGroup.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DCamera.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DLight.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DLightShader.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DModel.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DObject.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DObjModel.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DScene.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\V3DShader.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VAnimation.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VAnimationManager.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VAsync.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VBackdrop.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VBase.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VCamera.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VCollision.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VColour.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VContent.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VEmitter.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VFiniteStateMachine.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGame.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGlobal.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VGroup.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VInputHandler.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VInterpolate.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VMusic.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VObject.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VParticle.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPath.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsGroup.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsJoints.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPhysicsObject.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VPostEffect.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRandom.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRange.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRenderGroup.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VRenderLayer.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VShape.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VSoundManager.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VSprite.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VState.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VText.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTextPath.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTile.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTiledSprite.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTilemap.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTimer.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTrailArea.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\VTypedText.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="D:\Development\Libs\Vigilante-Game-Framework\VFrame\XInputDevice.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="TitleState.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseScreen.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="Config.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Libs\Vigilante-Game-Framework\VFrame\VCandle.h">
+      <Filter>Source\VFrame</Filter>
+    </ClInclude>
+    <ClInclude Include="WavePostEffect.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source">
+      <UniqueIdentifier>{aa4bc465-bf30-4b5a-89bf-86a7f541145e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Assets">
+      <UniqueIdentifier>{ca0c0090-9256-4fe7-ac7d-c16c3571c4c7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\VFrame">
+      <UniqueIdentifier>{fe58a15f-98af-45c9-bf6a-c6568827ef4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\VFrame\depend">
+      <UniqueIdentifier>{0c995a40-e9f6-4381-98c9-34b6692bd048}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
