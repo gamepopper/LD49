@@ -101,6 +101,7 @@ void TitleState::Initialise()
 	title->Add(t);
 
 	credits = new VText(0.0f, VGlobal::p()->Height - 20.0f, (float)VGlobal::p()->Width, "By Gamepopper for Ludum Dare 49", 12);
+	credits->SetFormat("Assets/ROCKB.ttf", 16);
 	credits->SetAlignment(VText::ALIGNCENTER);
 	credits->SetOutlineThickness(2.0f);
 	credits->SetOutlineTint(sf::Color::Black);
