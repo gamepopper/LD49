@@ -33,5 +33,7 @@
 
 # Visual Studio
 .vs
+*.vcxproj
+*.vcxproj.filters
 Release/
 Debug/
